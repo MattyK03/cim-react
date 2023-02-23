@@ -38,12 +38,12 @@ const SingleNewPage = () => {
                     <div className={`container animated ${toggleClass}`}>
                         <div className="new__content">
                             <div className="new__content--p">{singleNew.p1}</div>
-                            <img src={singleNew.bigImg1} alt="" className="new__content--bigImg" />
-                            <img src={singleNew.bigImg2} alt="" className="new__content--bigImg" />
+                            <img src={singleNew.bigImg1} alt="cim" className="new__content--bigImg" />
+                            <img src={singleNew.bigImg2} alt="cim" className="new__content--bigImg" />
                             <div className="new__content--p">{singleNew.p2}</div>
                             <div className="new__content--mediumImgs">
-                                <img src={singleNew.mediumImg1} alt="" />
-                                <img src={singleNew.mediumImg2} alt="" />
+                                <img src={singleNew.mediumImg1} alt="cim" />
+                                <img src={singleNew.mediumImg2} alt="cim" />
                             </div>
                         </div>
                     </div>
