@@ -1,0 +1,41 @@
+
+.insta__posts {
+    display: flex;
+    justify-content: space-between;
+}
+
+.insta__post {
+
+}
+
+@media (max-width:1200px) {
+    .insta__post:last-child {
+        display: none;
+    } 
+}
+
+@media (max-width: 1024px) {
+
+    .insta__post {
+        width: 32%;
+    }
+
+    .insta__post:last-child {
+        display: unset;
+    } 
+}
+
+@media (max-width: 820px) {
+
+}
+
+@media (max-width: 425px) {
+    .insta__posts {
+        flex-direction: column;
+    }
+
+    .insta__post {
+        width: 100%;
+        margin-bottom: 25px;
+    }
+}
