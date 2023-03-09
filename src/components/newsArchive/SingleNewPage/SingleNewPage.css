@@ -8,10 +8,6 @@ section.nopaddingtop {
     background-color: var(--bg);
 }
 
-.new {
-
-}
-
 .new__header {
     position: relative;
     cursor: pointer;

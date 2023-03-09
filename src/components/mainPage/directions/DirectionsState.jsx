@@ -1,11 +1,11 @@
-import directions1 from "./images/1.png"
-import directions2 from "./images/2.png"
-import directions3 from "./images/3.png"
-import directions4 from "./images/4.png"
-import directions5 from "./images/5.png"
-import directions6 from "./images/6.png"
-import directions7 from "./images/7.png"
-import directions8 from "./images/8.png"
+import directions1 from "./images/1.webp"
+import directions2 from "./images/2.webp"
+import directions3 from "./images/3.webp"
+import directions4 from "./images/4.webp"
+import directions5 from "./images/5.webp"
+import directions6 from "./images/6.webp"
+import directions7 from "./images/7.webp"
+import directions8 from "./images/8.webp"
 
 const directions = [
     {

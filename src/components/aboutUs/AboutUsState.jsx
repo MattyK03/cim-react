@@ -1,4 +1,4 @@
-import img1 from "./images/1.png"
+import img1 from "./images/1.webp"
 
 const aboutUs = [
     {

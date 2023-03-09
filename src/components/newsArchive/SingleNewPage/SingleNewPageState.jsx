@@ -1,8 +1,8 @@
-import bigImg1 from './images/bigImg1.png'
-import bigImg2 from './images/bigImg2.png'
-import mediumImg1 from './images/mediumImg1.png'
-import mediumImg2 from './images/mediumImg2.png'
-import bg from './images/bg.png'
+import bigImg1 from './images/bigImg1.webp'
+import bigImg2 from './images/bigImg2.webp'
+import mediumImg1 from './images/mediumImg1.webp'
+import mediumImg2 from './images/mediumImg2.webp'
+import bg from './images/bg.webp'
 
 const newPage = [
     {   

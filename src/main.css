@@ -144,6 +144,14 @@ body {
     font-weight: 700;
 }
 
+.pageSwapBtn:hover .arrow {
+    stroke: var(--bg);
+}
+
+.btn-with-arrow:hover .arrow {
+    stroke: var(--bg);
+}
+
 .arrow.rightArrow {
     margin-right: 20px;
 }
@@ -168,6 +176,9 @@ body {
 }
 
 .card__img {
+    width: 100%;
+    height: 100%;
+
     transition: opacity .2s linear;
 }
 

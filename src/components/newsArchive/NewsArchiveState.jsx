@@ -1,12 +1,12 @@
-import newsArchiveImg1 from "./images/1.png";
-import newsArchiveImg2 from "./images/2.png";
-import newsArchiveImg3 from "./images/3.png";
-import newsArchiveImg4 from "./images/4.png";
-import newsArchiveImg5 from "./images/5.png";
-import newsArchiveImg6 from "./images/6.png";
-import newsArchiveImg7 from "./images/7.png";
-import newsArchiveImg8 from "./images/8.png";
-import newsArchiveImg9 from "./images/9.png";
+import newsArchiveImg1 from "./images/1.webp";
+import newsArchiveImg2 from "./images/2.webp";
+import newsArchiveImg3 from "./images/3.webp";
+import newsArchiveImg4 from "./images/4.webp";
+import newsArchiveImg5 from "./images/5.webp";
+import newsArchiveImg6 from "./images/6.webp";
+import newsArchiveImg7 from "./images/7.webp";
+import newsArchiveImg8 from "./images/8.webp";
+import newsArchiveImg9 from "./images/9.webp";
 
 import cardArrow from '../../rightArrow.png'
 

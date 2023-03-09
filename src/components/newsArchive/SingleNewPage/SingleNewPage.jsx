@@ -2,7 +2,7 @@ import React from "react";
 import { NavLink, useParams } from "react-router-dom";
 import { useState } from "react";
 
-import { newPage } from "./SingleNewPageState";
+import { newPage } from "./SingleNewPageState.jsx";
 import leftArrow from "../../../leftArrow.png"
 import './SingleNewPage.css'
 

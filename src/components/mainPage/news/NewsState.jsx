@@ -1,9 +1,9 @@
-import news1 from "./images/1.png";
-import news2 from "./images/2.png";
-import news3 from "./images/3.png";
-import news4 from "./images/4.png";
-import news5 from "./images/5.png";
-import news6 from "./images/6.png";
+import news1 from "./images/1.webp";
+import news2 from "./images/2.webp";
+import news3 from "./images/3.webp";
+import news4 from "./images/4.webp";
+import news5 from "./images/5.webp";
+import news6 from "./images/6.webp";
 import arrow from '../../../rightArrow.png'
 
 const news = [

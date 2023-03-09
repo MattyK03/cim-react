@@ -11,8 +11,7 @@
 .projects__item {
     margin: 0 auto;
     width: 50%;
-    
-    border: 1px #fff solid;
+    height: auto;
 
     text-align: center;
 }
