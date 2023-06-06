@@ -10,7 +10,7 @@ const New = (props) => {
                 <img src={props.arrow} alt="" className="news__arrow" />
             </NavLink>
         </div>
-    )
-}
+    );
+};
 
 export default New;

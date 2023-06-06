@@ -1,18 +1,18 @@
 import React from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
 
-import ScrollToTop from "./scrollToTop.jsx"
-import "./main.css";
-import Header from "./components/header/Header.jsx";
-import MainPage from "./components/mainPage/MainPage.jsx";
+import AboutUs from "./components/aboutUs/AboutUs.jsx";
 import Contacts from "./components/contacts/Contacts.jsx";
 import Footer from "./components/footer/Footer.jsx";
+import Header from "./components/header/Header.jsx";
+import MainPage from "./components/mainPage/MainPage.jsx";
 import NewsArchive from "./components/newsArchive/NewsArchive.jsx";
-import AboutUs from "./components/aboutUs/AboutUs.jsx";
+import SingleNewPage from "./components/newsArchive/SingleNewPage/SingleNewPage.jsx";
+import Partners from "./components/partners/Partners.jsx";
 import Projects from "./components/projects/Projects.jsx";
 import Sciences from "./components/science/Sciences.jsx";
-import Partners from "./components/partners/Partners.jsx";
-import SingleNewPage from "./components/newsArchive/SingleNewPage/SingleNewPage.jsx";
+import "./main.css";
+import ScrollToTop from "./scrollToTop.js";
 
 function App() {
     return (

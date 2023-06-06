@@ -1,4 +1,3 @@
-
 .directions__group {
     display: flex;
     flex-wrap: wrap;
@@ -12,7 +11,6 @@
 }
 
 .directions__title {
-
     margin-bottom: 20px;
 
     background-color: var(--primary);
@@ -23,10 +21,10 @@
 }
 
 .directions__img {
-    transition: .15s linear;
+    transition: 0.15s linear;
 }
 
-.directions__title:hover .directions__img{
+.directions__title:hover .directions__img {
     opacity: 0;
 }
 
@@ -42,7 +40,7 @@
     top: 50%;
     left: 50%;
 
-    transform: translate3d(-50%,-50%, 0);
+    transform: translate3d(-50%, -50%, 0);
 }
 
 .directions__more {
@@ -50,16 +48,20 @@
 
     background-color: var(--bg);
     min-width: 1100px;
-    max-height: 0; 
+    height: 0;
     overflow: hidden;
     transition: max-height 1.2s linear;
+}
+
+.directions__more.active {
+    height: max-content;
 }
 
 .directions__more.right {
     transform: translateX(-51%);
 }
 
-.directions__more h2{
+.directions__more h2 {
     margin-top: 60px;
     margin-bottom: 40px;
 
@@ -70,7 +72,7 @@
     color: var(--body);
 }
 
-.directions__more p{
+.directions__more p {
     max-width: 692px;
 
     font-size: 16px;
